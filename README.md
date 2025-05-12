@@ -1,4 +1,4 @@
-# Unsubscribe-Channels-YT
+# Youtube-Unsubscribe-Script
 
 This simple JavaScript tool allows you to **unsubscribe from all your YouTube channels at once** — no extensions, no installs, just clean automation.
 
